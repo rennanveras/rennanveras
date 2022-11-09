@@ -23,7 +23,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">       
 </div><br>
-  <div align="center" height="130px" widht="130px"> 
+  <div align="center" height="90px" widht="90px"> 
    <img src="https://i.picasion.com/pic92/3593b9b9a5c4e3e0e2373180063185ef.gif">
  </div><br>
 <div align="center">
