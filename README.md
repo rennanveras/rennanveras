@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/rennan-veras-0b4759241/">Rennan Veras </a>
+    <a href="https://www.linkedin.com/in/rennan-veras/">Rennan Veras </a>
   </h1>
   
   <p align="center">
