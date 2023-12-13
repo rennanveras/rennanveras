@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End jr
+    Sou Desenvolvedor ull Stack
   </p>  
 </div>
 
